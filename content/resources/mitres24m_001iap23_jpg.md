@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/heavy-metal-101/mitres24m_001iap23.jpg
+file: /courses/res-21m-001-heavy-metal-101-january-iap-2023/mitres24m_001iap23.jpg
 file_size: ''
 file_type: image/jpeg
 image_metadata:

@@ -2,7 +2,7 @@
   "term": "January IAP",
   "year": "2023",
   "level": [
-    "Non Credit"
+    "Non-Credit"
   ],
   "topics": [
     [
@@ -29,7 +29,7 @@
   },
   "course_title": "Heavy Metal 101",
   "hide_download": true,
-  "course_description": "This is not a metallurgy class! Learn everything you ever wanted to know about Heavy Metal music. Topics of this video lecture series include musicology, history, metal culture, music theory, songwriting tropes, harsh vocal techniques, extreme metal, tech-based instruments, and how the genre tackles some of today's biggest sociopolitical challenges. You\u2019ll find out why metal bands exist in every country on Earth, and why you're probably already a metalhead without even knowing it. This course has been rockin' MIT's [Independent Activities Period (IAP)](http://web.mit.edu/IAP/)\\* since 2006!\n\n2023 Video Lectures:\n\n- Heavy Metal 101: Music and Culture\n- The Guts of Metal - Music Theory and Songwriting with Colin Brumley\n- All About Harsh Vocals \u2013 History, Application, and Technique with Paul Buckley\n- History of Heavy Metal, Part I\n- Connections Between Metal and Literature with Dean Swinford\n- History of Heavy Metal: Part II\n- GeoShred and Technology-Based Expressive Musical Instruments with Jordan Rudess\n- History of Heavy Metal: Part III\n\nThe [2021 and 2022 class video lectures](https://metal.mit.edu/archive) are also available on the site.\n\n\\**IAP is a 4-week term at MIT in January that provides members of the MIT community with an opportunity to organize, sponsor, and participate in activities and topics that are often outside of the regular MIT curriculum*.",
+  "course_description": "This is not a metallurgy class! Learn everything you ever wanted to know about Heavy Metal music. Topics of this video lecture series include musicology, history, metal culture, music theory, songwriting tropes, harsh vocal techniques, extreme metal, tech-based instruments, and how the genre tackles some of today's biggest sociopolitical challenges. You\u2019ll find out why metal bands exist in every country on Earth, and why you're probably already a metalhead without even knowing it. This course has been rockin' MIT's {{% resource_link \"9db84c53-cf88-41bf-a9f5-8be1d86557ef\" \"Independent Activities Period (IAP)\" %}}\\* since 2006!\n\n2023 Video Lectures:\n\n- Heavy Metal 101: Music and Culture\n- The Guts of Metal - Music Theory and Songwriting with Colin Brumley\n- All About Harsh Vocals \u2013 History, Application, and Technique with Paul Buckley\n- History of Heavy Metal, Part I\n- Connections Between Metal and Literature with Dean Swinford\n- History of Heavy Metal: Part II\n- GeoShred and Technology-Based Expressive Musical Instruments with Jordan Rudess\n- History of Heavy Metal: Part III\n\nThe {{% resource_link \"00f3c71c-8c45-42fc-b72f-152c50e78362\" \"2021 and 2022 class video lectures\" %}} are also available on the site.\n\n\\**IAP is a 4-week term at MIT in January that provides members of the MIT community with an opportunity to organize, sponsor, and participate in activities and topics that are often outside of the regular MIT curriculum*.",
   "department_numbers": [
     "21M",
     "RES"

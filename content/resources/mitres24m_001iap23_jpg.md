@@ -3,16 +3,16 @@ body: ''
 content_type: resource
 draft: false
 file: /courses/res-21m-001-heavy-metal-101-january-iap-2023/mitres24m_001iap23.jpg
-file_size: ''
+file_size: 83025
 file_type: image/jpeg
 image_metadata:
   caption: 'Swedish melodic death metal band, Arch Enemy on stage at the 2019 Full
     Force Festival in Ferropolis, Germany (the "City of Iron"). Lead singer, Alissa
     White-Gluz makes the ''devil horns'' gesture. (Photo by Stefan Bollmann. Source:
-    [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Arch_Enemy_Full_Force_2019_30.jpg).
+    {{% resource_link "55ee02c8-1477-4d69-a1d6-01a34d995434" "Wikimedia Commons" %}}.
     License: Attribution.)'
-  credit: 'Photo by Stefan Bollmann. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Arch_Enemy_Full_Force_2019_30.jpg).
-    License: Attribution.'
+  credit: 'Photo by Stefan Bollmann. Source: {{% resource_link "55ee02c8-1477-4d69-a1d6-01a34d995434"
+    "Wikimedia Commons" %}}. License: Attribution.'
   image-alt: Female metal singer standing center stage holding a microphone in one
     hand with the drums and guitarist behind, both of her arms are raised revealing
     the studded batwing sleeves of her leather jacket.

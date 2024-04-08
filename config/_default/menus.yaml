@@ -1,9 +1,9 @@
 leftnav:
-- identifier: external-1579093157-1686258267934
+- identifier: d5b2419e-acc2-4056-a860-d09400bafc54
   name: Heavy Metal 101 Website
-  url: https://metal.mit.edu/
+  pageRef: /external-resources/heavy-metal-101-website_d5b2419e-acc2-4056-a860-d09400bafc54
   weight: 10
-- identifier: external--1499053955-1687285693855
-  name: Class Archive (2021, 2022)
-  url: https://metal.mit.edu/archive
+- identifier: 06f0c719-80f9-4b15-ad4a-bbbf034071af
+  name: Class Archives
+  pageRef: /external-resources/class-archives_06f0c719-80f9-4b15-ad4a-bbbf034071af
   weight: 20
